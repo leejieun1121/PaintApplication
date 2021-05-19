@@ -15,3 +15,10 @@
 등을 추가했습니다. 
 
 ![스크린샷 2021-05-19 오후 5 27 01](https://user-images.githubusercontent.com/53978090/118780999-930c6d80-b8c7-11eb-9f98-4064759f97c9.png)
+
+---
+drawable 이미지 출처
+
+[Flaticon](https://www.flaticon.com/)
+[Iconfinder](iconfinder.com)
+[Freepik](https://www.freepik.com/)
